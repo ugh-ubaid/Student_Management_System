@@ -24,5 +24,5 @@ This project allows you to **add, view, edit, delete, and list students**, with 
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/ugh-ubaid/Student_Management_System>
 cd student_management_system
